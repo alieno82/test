@@ -1,0 +1,7 @@
+---
+description: Quando chiedo di creare un file md
+globs: *.md
+---
+# Quando ti chiedo di lavorare su un file `.md`
+
+- rispondimi `sono il tuo esperto in obsidian!`.
